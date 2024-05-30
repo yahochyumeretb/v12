@@ -1,0 +1,15 @@
+.my-navbar {
+    background-color: #3c3c3c !important;
+}
+
+.my-navbar .link a:hover {
+    text-decoration: underline !important;
+}
+.my-navbar .Brand{
+ width: 40px;
+ height: 40px;
+}
+.my-navbar .logo {
+    width: 10%;
+    height: 10%;
+}
